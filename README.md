@@ -1,2 +1,2 @@
 # TImeComponent
-基于Vue_Cli的时间组件
+基于Vue框架的时间组件
